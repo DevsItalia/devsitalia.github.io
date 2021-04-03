@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+A usefull collection of links of various learning materials!
