@@ -12,5 +12,5 @@ layout: post
 - **Blueprints:**
     - ....
 
-- **Altro:**
+- **Other:**
     - <a href="https://www.youtube.com/user/bcloward" target="_blank">Ben Cloward</a>
