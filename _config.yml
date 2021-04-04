@@ -8,8 +8,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://rickycorte.com'
-baseurl:          '/dev-links'
+url:              'devsitalia.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # markdown render engine.
