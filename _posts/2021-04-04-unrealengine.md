@@ -6,8 +6,8 @@ category: Gamedev
 layout: post
 ---
 
-- C++:
+- **C++:**
     - ....
     
-- Blueprints:
+- **Blueprints:**
     - ....
